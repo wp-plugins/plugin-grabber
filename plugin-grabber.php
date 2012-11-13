@@ -3,6 +3,7 @@
 Plugin Name: Plugin Grabber
 Plugin URI: http://www.avdude.com/plugingrabber
 Description: This wordpress plugin allows you to create and download a backup of a plugin or your entire plugins directory. Very useful to use just before updating a plugin. Adds menu item to Plugins & Tools
+Version: 1.01
 Author: David Fleming - Edge Technology Consulting
 Author URI: http://www.avdude.com
 */
@@ -36,7 +37,7 @@ add_action('admin_menu', 'plggbr_admin_menu');
 #Add Menu Function
 function plggbr_admin_menu(){
     global $wpdb;
-    $version = "PlugInGbr_1.0";
+    $version = "PlugInGbr_1.01";
     $role = 'manage_options';
     #Create Admin Menus
     //add_menu_page($version, $version, $role, __file__, 'plugin_grabber');
