@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Plugin Grabber ===
 Contributors: avdude
 Donate link: http://avdude.com/wordpress-plugins/plugin-grabber/
 Tags: plugins, archive, zip, backup
@@ -22,7 +22,7 @@ Follow the normal plugin activation steps.
 
 == Frequently Asked Questions ==
 
-= Where is the plugin accessed once activate =
+= Where is the plugin accessed once activated =
 
 Either from the tools menu or the plugins menu
 
