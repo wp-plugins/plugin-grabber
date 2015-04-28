@@ -3,8 +3,8 @@ Contributors: avdude
 Donate link: http://avdude.com/wordpress-plugins/plugin-grabber/
 Tags: plugins, archive, zip, backup
 Requires at least: 3.0.1
-Tested up to: 3.4.2
-Stable tag: 1.01
+Tested up to: 4.2.1
+Stable tag: 1.02
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +32,9 @@ Either from the tools menu or the plugins menu
 
 
 == Changelog ==
+
+= 1.02 =
+* Minor Revisions
 
 = 1.0 =
 * Release Version
